@@ -192,7 +192,7 @@ WalkerLearning:
     time_horizon: 1000
     batch_size: 2048
     buffer_size: 20480
-    max_steps: 2e6
+    max_steps: 10e6
     summary_freq: 3000
     num_layers: 3
     hidden_units: 512
